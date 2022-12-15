@@ -1,1 +1,1 @@
-# thesis
+# diploma
